@@ -44,16 +44,3 @@ Solana & Fullstack Engineer
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     
 </p>
-
-##
-
-<h3><b><samp>Tools and Platform</samp></b></h3>
-
-<span>
-<img src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png" alt="drawing" width="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/0/747.png" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
-</span>
-<hr>
