@@ -19,9 +19,10 @@ Solana & Fullstack Engineer
 
 </h1>
 
-### Hi there 👋
-- 🔭 I’m currently working on Solana Projects Developments
-- 👀 I’m passionate with building Solana projects
+### Welcome to my github 👋
+- 🧑🏽 I'm talent Solana Engineer.
+- 🔭 I’m currently working on Solana Projects Developments.
+- 👀 I’m passionate with building Solana projects.
 - 🌱 I’m currently learning Cosmos public blockchain network.
 - 👯 I’m looking to collaborate on anything - Solana. 
 
