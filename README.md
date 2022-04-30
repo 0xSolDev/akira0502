@@ -4,10 +4,10 @@ Solana & Fullstack Engineer
   <a href="mailto:luckysmile0502@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="GMail" height="30" width="30">
   </a>
-  &nbsp;&nbsp;
+<!--   &nbsp;&nbsp;
   <a href="https://join.skype.com/wlGQ630qWdSd">
     <img src="https://www.vectorlogo.zone/logos/skype/skype-tile.svg" alt="Skype" height="30" width="30">
-  </a>
+  </a> -->
   &nbsp;&nbsp;
   <a href="https://t.me/luckysmile0502">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="30">
