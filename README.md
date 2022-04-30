@@ -30,7 +30,7 @@
   🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
 </p>
 <p align="center">
-  <a href="https://github.com/SolanaEngineer0502"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Solana%20Smart %20Contract%20engineer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/perfectdev000"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Blockchain%20and%20Full-stack%20Engineer;10+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 
 <b> 🎬 I am ready to start your project immediately.</b>
