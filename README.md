@@ -63,7 +63,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=perfectdev000&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
 </p>
 <a href="https://github.com/SolanaEngineer0502/SolanaEngineer0502">
-  <img alt="SolanaEngineer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=perfectdev000&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
+  <img alt="SolanaEngineer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SolanaEngineer0502&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
 </a>
   
 </p>
