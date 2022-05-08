@@ -60,7 +60,7 @@
 <p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=SolanaEngineer&column=7&theme=onedark" alt="SolanaEngineer0502" /></p>
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=SolanaEngineer&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"> 
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Princ&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Prince&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
 </p>
 <a href="https://github.com/SolanaEngineer0502/SolanaEngineer0502">
   <img alt="SolanaEngineer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SolanaEngineer0502&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
