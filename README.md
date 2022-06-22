@@ -5,7 +5,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="GMail" height="30" width="30">
   </a>
   &nbsp;&nbsp;
-  <a href="https://join.skype.com/wlGQ630qWdSd">
+  <a href="live:.cid.35e91d8eaca1226e">
     <img src="https://www.vectorlogo.zone/logos/skype/skype-tile.svg" alt="Skype" height="30" width="30">
   </a>
   &nbsp;&nbsp;
