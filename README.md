@@ -30,7 +30,7 @@
   🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
 </p>
 <p align="center">
-  <a href="https://github.com/SolanaEngineer0502"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Blockchain%20and%20Full-stack%20Engineer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/akira0502"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Blockchain%20and%20Full-stack%20Engineer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 
 <b> 🎬 I am ready to start your project immediately.</b>
@@ -63,7 +63,7 @@
 <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Prince&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true"> -->
 </p>
 <a href="https://github.com/SolanaEngineer0502/SolanaEngineer0502">
-  <img alt="SolanaEngineer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SolanaEngineer0502&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
+  <img alt="SolanaEngineer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akira0502&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
 </a>
   
 </p>
