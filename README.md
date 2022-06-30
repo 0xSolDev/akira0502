@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Solana & Fullstack Engineer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Blockchain & Backend Engineer
   &nbsp;&nbsp;
   <a href="mailto:luckysmile0502@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="GMail" height="30" width="30">
@@ -20,9 +20,10 @@
   </p>
   <p>
   Hi there<br>
-  I'm a Skilled Professional Solana Smart Contract Engineer.<br><br>
-  I have been working in Solana developments for 2 years and Full-stack Web developments for 7 years as well.<br><br>
+  I'm a Skilled Professional Smart Contract Engineer.<br><br>
+  I have been working in SC developments for 3 years and Full-stack Web developments for 7 years as well.<br><br>
   I am passionate with building Solana Blockchain developments and I’m looking to collaborate on anything - Solana.<br><br>
+  I'd prefer backend developments and I have poweful knowledge in Algorithm & AI/ML.
   🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
 </p>
 <p align="center">
