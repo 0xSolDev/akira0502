@@ -23,7 +23,7 @@
   I'm a Skilled Professional Smart Contract Engineer.<br><br>
   I have been working in SC developments for 3 years and Full-stack Web developments for 7 years as well.<br><br>
   I am passionate with building Solana Blockchain developments and I’m looking to collaborate on anything - Solana.<br><br>
-  I'd prefer backend developments and I have poweful knowledge in Algorithm & AI/ML.
+  I'd prefer backend developments and I have powerful knowledge in Algorithm & AI/ML.
   🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
 </p>
 <p align="center">
