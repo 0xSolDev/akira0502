@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Blockchain & Backend Engineer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Blockchain Rust Engineer
   &nbsp;&nbsp;
   <a href="mailto:luckysmile0502@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="GMail" height="30" width="30">
@@ -8,10 +8,10 @@
   <a href="https://t.me/akira0502">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="30">
   </a>
-<!--   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/luckysmile0502/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
-  </a> -->
+  </a>
 
 </h1>
 <p>
@@ -19,12 +19,15 @@
     <img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   </p>
   <p>
-  Hi there<br>
-  I'm a Skilled Professional Smart Contract Engineer.<br><br>
-  I have been working in SC developments for 3 years and Full-stack Web developments for 7 years as well.<br><br>
-  I am passionate with building Solana Blockchain developments and I’m looking to collaborate on anything - Solana.<br><br>
-  I'd prefer backend developments and I have powerful knowledge in Algorithm & AI/ML.
-  🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
+ Strong Rust in blockchain smart contract & infrastructure development.<br>
+ Anchor/Rust/@Solana-web3 in the Solana full-stack development.<br>
+ DEX, DeFi, P2P & NFT development on the Solana chain.<br>
+ Expertise in Substrate for blockchain development on the Polkadot ecosystem such as Parachain/Parathread/Smart Contract.<br>
+ Experience in building DApps using CosmWasm/Cosmos SDK on the Cosmos network.<br>
+ Experience in Solidity/Web3.js for SCs & DApps on the EVM chains.<br>
+ Strong knowledge of blockchain basics such as node, transactions, blocks, consensus mechanism, POS/POW, etc.<br>
+ Experience in developing Mathematical Algorithm involving Neural Network, Mathematical Modeling, Recursive Functionality, Probability Theory.<br>
+
 </p>
 <p align="center">
   <a href="https://github.com/akira0502"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Blockchain%20and%20Full-stack%20Engineer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
