@@ -27,7 +27,7 @@
 
 </p>
 <p align="center">
-  <a href="https://github.com/akira0502"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Blockchain%20and%20Full-stack%20Engineer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/akira0502"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Blockchain%20Rust%20Engineer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 
 <b> 🎬 I am ready to start your project immediately.</b>
