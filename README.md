@@ -8,10 +8,10 @@
   <a href="https://t.me/akira0502">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="30">
   </a>
-  &nbsp;&nbsp;
+<!--   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/luckysmile0502/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
-  </a>
+  </a> -->
 
 </h1>
 <p>
